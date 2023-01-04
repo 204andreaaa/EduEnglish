@@ -390,6 +390,10 @@ a:focus {
   background-color: #6bd1bd;
   border-radius: 100%;
   opacity: 1;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  -ms-border-radius: 100%;
+  -o-border-radius: 100%;
 }
 
 .client_section .carousel-indicators li.active {
